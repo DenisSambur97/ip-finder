@@ -5,7 +5,7 @@ import IpGeolocation from "./components/ip-geolocation";
 function App() {
   return (
     <div className="App">
-      Hello
+      <h1>Hello</h1>
       <IpFinder/>
       <IpGeolocation/>
     </div>
